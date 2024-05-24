@@ -29,6 +29,11 @@
   
 </div>
 
+## Overview
+
+BunnyManager is a user-friendly application for Android that allows you to download and manage modified versions of the Discord app. Enhance your Discord experience with custom features and tweaks that are not available in the official app.
+
+
 Build
 ---
 
@@ -50,15 +55,21 @@ Build
 
 ## Contributing
 
-This is an open-source project, you can do so without any programming.
+We welcome contributions to this open-source project, and you don't need programming skills to participate.
 
 Here are a few things you can do:
 
 - [Test and report issues](https://github.com/pyoncord/BunnyManager/issues/new/choose)
 <!-- - [Translate the app into your language](https://crowdin.com/project/vendetta-manager) -->
+
+## Special thanks
+* [@rushii](https://github.com/rushiiMachine/) - For the installer, zip library and a portion of patching.
+* [@Xinto](https://github.com/X1nto/) - For the preference manager.
     
 License
 ---
 Bunny Manager is licensed under the Open Software License version 3.0
 
 [![License: OSL v3](https://img.shields.io/badge/License-OSL%20v3-blue.svg?style=for-the-badge)](https://github.com/pyoncord/BunnyManager/blob/main/LICENSE)
+
+###### This application is not affiliated with or endorsed by Discord Inc. Use of modified versions of the Discord app may violate Discord’s terms of service. Use at your own risk.
